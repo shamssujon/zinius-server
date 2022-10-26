@@ -9,6 +9,11 @@ app.get("/", (req, res) => {
     res.send("Zinius server is running...");
 });
 
+const categories = require("./data/categories.json");
+app.get("/categories", (req, res) => {
+    res.send(categories);
+});
+
 app.listen(port, () => {
     console.log(`Zinius server is running on port: ${port}`);
 });

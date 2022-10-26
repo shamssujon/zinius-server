@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "category_id": "2",
+        "title": "Web Design for Beginners",
+        "price": "199",
+        "image": "https://cdn.10minuteschool.com/lg/images/thumbnails/ghore_boshe_spoken_english_course_thumbnail_by_munzereen_shahid.jpg",
+        "description": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust."
+    },
+    {
+        "id": "2",
+        "category_id": "2",
+        "title": "Mastering in Figma",
+        "price": "199",
+        "image": "https://cdn.10minuteschool.com/lg/images/thumbnails/ghore_boshe_spoken_english_course_thumbnail_by_munzereen_shahid.jpg",
+        "description": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust. "
+    },
+    {
+        "id": "3",
+        "category_id": "2",
+        "title": "Logo Design A to Z",
+        "price": "199",
+        "image": "https://cdn.10minuteschool.com/lg/images/thumbnails/ghore_boshe_spoken_english_course_thumbnail_by_munzereen_shahid.jpg",
+        "description": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust. "
+    }
+]
