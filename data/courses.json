@@ -2,10 +2,21 @@
     {
         "id": "1",
         "category_id": "1",
-        "title": "Web Design for beginners",
+        "title": "Web Design with Figma",
         "price": "299",
         "image": "https://cdn.10minuteschool.com/lg/images/Thumbnails/Web-Design-Course-Thumbnail.jpg",
-        "description": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust."
+        "description": "This course is aimed at people new to design, new to User Experience design. Even if you're not totally sure what UX really means, don't worry. We'll start right at the beginning and work our way through step by step. We'll be focusing on the software Figma but I'll make sure to explain the techniques & terms used in the UX and how real world projects are run. You will develop a great understanding of the industry and will be able to manage your own UX projects.",
+        "intro": "Use Figma to get a job in UI Design, User Interface, User Experience design, UX Design & Web Design",
+        "features": [
+            "How to begin working as a UX Designer using Figma.",
+            "How to make fully interactive prototypes.",
+            "How to use Figma for Essential UX Design & UI Design",
+            "The dos & don'ts around choosing fonts for web & mobile apps."
+        ],
+        "duration": "3 months",
+        "modules": 50,
+        "ratings": 5,
+        "enrolled": "1300"
     },
     {
         "id": "2",
@@ -13,7 +24,18 @@
         "title": "Logo Design A to Z",
         "price": "199",
         "image": "https://cdn.10minuteschool.com/lg/images/skills/thumbnails/best-logo-design-course-in-bangla.jpg",
-        "description": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust."
+        "description": "This powerful extensive class trains you in all aspects of the logo design process including logo design theory, execution, working with typography, selecting color pallets, preparing and exporting files and how to work with adobe illustrator to create stunning logos. We also apply our logos to mockups so we can create polished presentations for our portfolio or to the client for approval. We even talk about where to find possible clients by following a step by step process.",
+        "intro": "Learn Logo Design Theory, The Creative Process, How to Work With Clients & Master Adobe Illustrator Tools",
+        "features": [
+            "Logo Design Theory",
+            "Learn the different logo design categories and styles",
+            "The power of color Psychology in Logo Design",
+            "How to use the Golden Ratio in Logo Design and understand golden ratio theory."
+        ],
+        "duration": "3 months",
+        "modules": 50,
+        "ratings": 5,
+        "enrolled": "1300"
     },
     {
         "id": "3",
@@ -21,7 +43,18 @@
         "title": "Web developement",
         "price": "399",
         "image": "https://cdn.10minuteschool.com/lg/images/Thumbnails/Web-Design-Course-Thumbnail.jpg",
-        "description": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust."
+        "description": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust.",
+        "intro": "Launch a career as a web designer by learning HTML5, CSS3, responsive design, Sass and more!",
+        "features": [
+            "Create any website layout you can imagine",
+            "Add tasteful animations and effects with CSS3",
+            "Support any device size with Responsive (mobile-friendly) Design",
+            "Use common vocabulary from the design industry"
+        ],
+        "duration": "2 months",
+        "modules": 50,
+        "ratings": 5,
+        "enrolled": "1200"
     },
     {
         "id": "4",
@@ -29,7 +62,18 @@
         "title": "Facebook Marketing",
         "price": "49",
         "image": "https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/fb_marketing_update2_thumbnail.jpg",
-        "description": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust."
+        "description": "Are you looking for a Facebook Ads course that shows you EXACTLY how to set up and run profitable Facebook Ads campaigns? Great, you're in the right place. I don't just talk the talk; I actually walk the walk and live it too. In this course, you'll be able to watch me in real-time as I show you exactly how I set up and run profitable Facebook ads, step by step.",
+        "intro": "Learn how to set up profitable Facebook Ads campaigns following a proven step by step process. Go From Zero to Hero!",
+        "features": [
+            "Learn how to set up a facebook business page and optimise it",
+            "Learn how to set up a Facebook ad account",
+            "Learn how to create your first facebook ad campaign from scratch",
+            "Learn how to set up video ad campaigns"
+        ],
+        "duration": "1 month",
+        "modules": 30,
+        "ratings": 4.5,
+        "enrolled": "400"
     },
     {
         "id": "5",
@@ -37,7 +81,18 @@
         "title": "Robotics for beginners",
         "price": "1099",
         "image": "https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/robotics_for_beginners_thumbnail.jpg",
-        "description": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust."
+        "description": "In this course we are going to teach you from the basics of robotics to building your own robot. 10-20 years ago Robots used to be only in the research institutes & factories, but nowadays robots are in common use in various applications. Even in our households, doing different tasks such as cleaning the floors.  So learning robotics from early on is a great investment for the future. We are starting all the way from basic electronics, programming and moving towards robot motion and a bit into control systems & IoT as well. These are few of the most sought after skills in the world today.",
+        "intro": "Arduino Programming | Sensors and Actuators | Robotics | Line Following | Obstacle Avoidance | Bluetooth Controlling",
+        "features": [
+            "Learning about robotics & its uses",
+            "Developing practical robotics applications",
+            "Learning to use Internet of things(IoT) with robots",
+            "Arduino Programming"
+        ],
+        "duration": "20 hours",
+        "modules": 10,
+        "ratings": 4.8,
+        "enrolled": "200"
     },
     {
         "id": "6",
@@ -45,7 +100,18 @@
         "title": "Unleash Your True Potential",
         "price": "499",
         "image": "https://cdn.10minuteschool.com/lg/images/Thumbnails/Unleash-Your-True-Potential-Course-Thumbnail.jpg",
-        "description": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust."
+        "description": "Hello! I want to show you what unlocked my true potential. You see, I was in a bit of a situation. I was reading a ton of self-development books and watching lots of videos but my life wasn't changing. I was even having those moments but still no change. Sure I would get motivated to change but after a week I would go back to the way I was. I knew I had a lot of potential and I knew I wanted more but there was this mental bridge that I could not cross. Needless to say, I felt like something was deliberately pulling me back to the way I was and keeping me there. This feeling led me down a rabbit hole of research - specifically dealing with the subconscious.",
+        "intro": "This Course was Made to Overcome the Inner Force that Keeps us From Our True Potential",
+        "features": [
+            "How to change habits to change your character",
+            "How the conscious and the subconscious work",
+            "What discipline is and how to increase it",
+            "The #1 way to master a skill in high demand"
+        ],
+        "duration": "3 hours",
+        "modules": 1,
+        "ratings": 5,
+        "enrolled": "100"
     },
     {
         "id": "7",
@@ -53,7 +119,18 @@
         "title": "Trade Sales",
         "price": "699",
         "image": "https://cdn.10minuteschool.com/lg/images/Thumbnails/Trade-Sales-Course-Thumbnail.jpg",
-        "description": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust."
+        "description": "Sales is all about listening to people and prescribing a solution. In every job you'll come across sales moments, whether you're selling yourself in a job interview or selling products to customers - it's an essential skill in all career paths. Sales needn't be slimy, immoral, or complicated - it's simply about getting the best solution for the customer so they are thrilled to buy from you. With this course you can maximise your sales potential in just a few minutes - if you're already working in sales, or looking for a lucrative and enjoyable future career, effective selling is a valuable skill that you definitely need to master.",
+        "intro": "Sales Hacking: Essential sales skills, sales strategies and sales techniques to sell just about anything!",
+        "features": [
+            "Enjoy selling by befriending customers",
+            "Be organised and efficient",
+            "Feel confident preparing for a sales meeting",
+            "Master body language and rapport to build relationships"
+        ],
+        "duration": "3 hours",
+        "modules": 2,
+        "ratings": 5,
+        "enrolled": "400"
     },
     {
         "id": "8",
@@ -61,7 +138,18 @@
         "title": "Wedding Photography",
         "price": "99",
         "image": "https://cdn.10minuteschool.com/lg/images/Thumbnails/Wedding-Photography-Course-Thumbnail.jpg",
-        "description": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust."
+        "description": "This online photography course will teach you how to take amazing images and even sell them, whether you use a smartphone, mirrorless or DSLR camera. While there are plenty of digital photography courses that focus on specific styles or how to use gear, it's hard to find a comprehensive course like this one, which is for beginner to advanced photographers. This course is designed for all levels of photographers who want to improve their skills, take stellar images, and make money with their photos - especially great for any DSLR or mirrorless camera user.",
+        "intro": "Learn exactly how to become a wedding photographer, start a photo business of your own, and shoot better wedding photos.",
+        "features": [
+            "Become a successful wedding photographer",
+            "Price and create photography packages that sell",
+            "Know how to pose and interact with couples and big groups",
+            "Edit photos in Lightroom and Photoshop to make them look better"
+        ],
+        "duration": "6 hours",
+        "modules": 5,
+        "ratings": 5,
+        "enrolled": "50"
     },
     {
         "id": "9",
@@ -69,6 +157,17 @@
         "title": "Spoken English",
         "price": "99",
         "image": "https://cdn.10minuteschool.com/lg/images/thumbnails/ghore_boshe_spoken_english_course_thumbnail_by_munzereen_shahid.jpg",
-        "description": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust."
+        "description": "English Grammar Launch is an intermediate English grammar course taught by me, Anthony, a native British English speaker. You will learn the target grammar structures at a deep level, so that you can sound more native-like when you speak English. Each section focuses on one, two or three target structures so that you can master each one and produce it accurately in your spoken English. If you want to speak English more clearly, if you want to sound more native-like, or if you simply want to take your English to the next level, this course can help you achieve your goal of improving your English.",
+        "intro": "Learn English grammar through lectures and listening and speaking practice, so you can confidently speak English.",
+        "features": [
+            "Speak English more confidently.",
+            "Have a deeper knowledge of the structure of English grammar.",
+            "Better understand spoken English.",
+            "Produce the target structures confidently and accurately."
+        ],
+        "duration": "8 hours",
+        "modules": 5,
+        "ratings": 5,
+        "enrolled": "560"
     }
 ]
