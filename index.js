@@ -14,6 +14,11 @@ app.get("/categories", (req, res) => {
     res.send(categories);
 });
 
+const courses = require("./data/courses.json");
+app.get("/courses", (req, res) => {
+    res.send(courses);
+});
+
 app.listen(port, () => {
     console.log(`Zinius server is running on port: ${port}`);
 });
