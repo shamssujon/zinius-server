@@ -35,6 +35,20 @@ app.get("/category/:id", (req, res) => {
     res.send(singleCategory);
 });
 
+// All Blog
+const blog = require("./data/blog.json");
+app.get("/blog", (req, res) => {
+    res.send(blog);
+});
+
+// Single blog
+app.get("/blog/:id", (req, res) => {
+    const id = req.params.id;
+    const singleBlog = blog.find((article) => article.id === id);
+    res.send(singleBlog);
+    console.log(singleBlog);
+});
+
 app.listen(port, () => {
     console.log(`Zinius server is running on port: ${port}`);
 });
