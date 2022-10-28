@@ -7,7 +7,7 @@
     {
         "id": "02",
         "question": "Why are you using 'Firebase'? What other options do you have to implement authentication?",
-        "answer": "<p>Firebase is an app development platform that helps you develop iOS, Android and Web apps. We are using Firebase for it's authentication service.</p><p>Some other well-known authentication service providers are out there. Such as:</p><ul><li>Supabase</li><li>Okta</li><li>Auth0</li><li>Amazon Cognito</li><li>OneLogin</li><li>Keycloak</li></ul>"
+        "answer": "<p>Firebase is an app development platform that helps you develop iOS, Android and Web apps. We are using Firebase for it's authentication service.</p><p>Some other well-known authentication service providers are out there. Such as:</p><ul class='list-disc list-inside'><li>Supabase</li><li>Okta</li><li>Auth0</li><li>Amazon Cognito</li><li>OneLogin</li><li>Keycloak</li></ul>"
     },
     {
         "id": "03",
