@@ -46,7 +46,6 @@ app.get("/blog/:id", (req, res) => {
     const id = req.params.id;
     const singleBlog = blog.find((article) => article.id === id);
     res.send(singleBlog);
-    console.log(singleBlog);
 });
 
 app.listen(port, () => {
