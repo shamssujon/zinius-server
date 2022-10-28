@@ -1,0 +1,27 @@
+[
+    {
+        "id": "01",
+        "question": "What is this platform?",
+        "answer": "Zinius is a online education platform where you can enroll in various courses to improve your knowledge and skills."
+    },
+    {
+        "id": "02",
+        "question": "How to see all courses?",
+        "answer": "In the top of the page there are severel menus don't you see? Click on the courses menu and you acan see all the courses?"
+    },
+    {
+        "id": "03",
+        "question": "How to enroll in a course?",
+        "answer": "From the courses, choose a course you want to enroll. Then click on it's SEE DETAILS button to go to the course details page. From the course details page click GET PREMIUM ACCESS. If you are already logged in, it will take you to the checkout page. If you are not logged in, it will navigate you to the login page. After login you will be navigated to the checkout page. Click the BUY NOW button to enroll to the course."
+    },
+    {
+        "id": "04",
+        "question": "What is promo code?",
+        "answer": "Promo code or coupon code is a special set of charecters that allows you to get certain discount when you checkout."
+    },
+    {
+        "id": "05",
+        "question": "Can you give me a promo code?",
+        "answer": "Sure, why not? Use 'ZINIUS' to get 10% discount on every course. Though it will make us lose some money, but hey, that's none of your concern 😊"
+    }
+]

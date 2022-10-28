@@ -48,6 +48,12 @@ app.get("/blog/:id", (req, res) => {
     res.send(singleBlog);
 });
 
+// All FAQs
+const faqs = require("./data/faqs.json");
+app.get("/faqs", (req, res) => {
+    res.send(faqs);
+});
+
 app.listen(port, () => {
     console.log(`Zinius server is running on port: ${port}`);
 });
